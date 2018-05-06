@@ -341,7 +341,7 @@ class Initiate extends Component {
 						<PageHeader>
 							<div className="row">
 								<div className="col-lg-3">
-									<span>Assitant</span>
+									<span>Assistant</span>
 								</div>
 								<div className="col-lg-6">
 									<FormGroup controlId="formControlsSelect">

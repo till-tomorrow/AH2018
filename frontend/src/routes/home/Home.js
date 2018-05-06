@@ -10,7 +10,7 @@ import s from './Home.css';
 import StatWidget from '../../components/Widget';
 import Donut from '../../components/Donut';
 
-const title = 'Psychology Assistive Module';
+const title = 'Automated Feedback Service';
 
 class Home extends Component {
 	constructor() {
