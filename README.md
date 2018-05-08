@@ -1,4 +1,4 @@
-# Automatic Feedback System
+# AFS (Automatic Feedback Service)
 
 ## Team Name – sudo apt hack
 
